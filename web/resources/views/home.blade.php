@@ -23,7 +23,7 @@
                 </video>
                 <div class="video-overlay"></div>
                 <div id="hero-text-container">
-                    <h1>Driving Transformative <span>Impact</span> Through <span>Strategy & Innovation</span></h1>
+                    <h1>Transforming <span>Challenges</span> Into <span>Opportunities</span> For Real Impact</h1>
                     <button>Explore Our Work<i class="ri-arrow-right-up-line"></i></button>
                 </div>
             </div>
@@ -346,6 +346,16 @@
             </div>
           </div>
         </div>
+        <div id="banner">
+            <div id="banner-container">
+                <div id="banner-content">
+                    <h2><span>Still Not Convinced?</span><br>Connect with Our Experts</h2>
+                    <button>Get In Touch<i class="ri-phone-line"></i></button>
+                </div>
+            </div>
+        </div>
+    </div>  
+    
 
         <script>
 document.addEventListener("DOMContentLoaded", function () {

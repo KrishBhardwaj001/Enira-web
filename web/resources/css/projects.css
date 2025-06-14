@@ -217,7 +217,7 @@ html, body {
     cursor: pointer;
     transition: color 0.3s ease;
     margin-top: 2.5rem;
-    letter-spacing: -0.08rem;
+    letter-spacing: -0.05rem;
 }
 
 .project > button > i {
@@ -225,11 +225,11 @@ html, body {
     transition: margin-left 0.3s ease;
 }
 
-.project > button:hover {
+.project:hover > button {
     color: #FF4500; /* Orange Red color */
 }
 
-.project > button:hover i {
+.project:hover > button i {
     margin-left: 1rem;
 }
 
@@ -267,7 +267,7 @@ html, body {
 }
 
 .project > .project-img {
-    height: 30rem;
+    height: 25rem;
     width: 100%;
     background-size: cover;
     background-position: center;
