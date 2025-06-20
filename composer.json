@@ -1,0 +1,28 @@
+{
+    "name": "krishbhardwaj/enira",
+    "description": "Enira web application",
+    "type": "project",
+    "require": {
+        "php": "^8.2"
+    },
+    "scripts": {
+        "post-root-package-install": [
+            "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
+        ],
+        "post-create-project-cmd": [
+            "@php -r \"file_exists('web/database/database.sqlite') || touch('web/database/database.sqlite');\"",
+            "cd web && composer install && npm install && npm run build",
+            "cd web && php artisan key:generate --ansi",
+            "cd web && php artisan migrate --force"
+        ]
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "allow-plugins": {
+            "pestphp/pest-plugin": true,
+            "phpstan/extension-installer": true
+        }
+    }
+}
