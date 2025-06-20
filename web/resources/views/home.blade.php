@@ -90,64 +90,88 @@
           <div id="gallery-container">
             <div class="gallery-track">
               <div class="gallery-item">
-                <img src="https://images.pexels.com/photos/3231359/pexels-photo-3231359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Children studying in classroom 1">
+                <img src="https://images.unsplash.com/photo-1622253692010-333f2da6031d?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Doctor in his blue scrubs">
                 <div class="gallery-overlay">
-                  <p>Education & Learning</p>
+                  <p>Healthcare</p>
                 </div>
               </div>
               <div class="gallery-item">
-                <img src="https://images.pexels.com/photos/2091760/pexels-photo-2091760.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Building 1">
+                <img src="https://images.unsplash.com/photo-1582719298818-904ce0e5cd87?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="A female pharmacist">
                 <div class="gallery-overlay">
-                  <p>Infrastructure & Development</p>
+                  <p>Pharma & Diagnostics</p>
                 </div>
               </div>
               <div class="gallery-item">
-                <img src="https://images.pexels.com/photos/31613321/pexels-photo-31613321/free-photo-of-professional-cosmetic-treatment-session.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Doctors operating on a patient 1">
+                <img src="https://images.unsplash.com/photo-1578496479531-32e296d5c6e1?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="a group of plastic cups sitting on top of a machine">
                 <div class="gallery-overlay">
-                  <p>Healthcare & Wellness</p>
+                  <p>Biotech</p>
                 </div>
               </div>
               <div class="gallery-item">
-                <img src="https://images.pexels.com/photos/8139596/pexels-photo-8139596.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Indian currency hanging on a clip 1">
+                <img src="https://plus.unsplash.com/premium_photo-1668383207188-f5474588d674?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="a man and a woman sitting at a table writing">
                 <div class="gallery-overlay">
-                  <p>Financial Services</p>
+                  <p>Development</p>
                 </div>
               </div>
               <div class="gallery-item">
-                <img src="https://images.pexels.com/photos/30665287/pexels-photo-30665287/free-photo-of-traditional-potter-crafting-clay-pots-in-india.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Indian woman in a saree making earthern pots 1">
+                <img src="https://plus.unsplash.com/premium_photo-1683535508501-03d9271c3b09?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="a woman holding a stack of books in a library">
                 <div class="gallery-overlay">
-                  <p>Artisan & Handicrafts</p>
+                  <p>Education</p>
+                </div>
+              </div>
+              <div class="gallery-item">
+                <img src="https://images.pexels.com/photos/6771665/pexels-photo-6771665.jpeg" alt="Free Close-up of a smartphone showing cryptocurrency trends with coins in the background. Stock Photo">
+                <div class="gallery-overlay">
+                  <p>Fintech</p>
+                </div>
+              </div>
+              <div class="gallery-item">
+                <img src="https://images.pexels.com/photos/6927546/pexels-photo-6927546.jpeg" alt="Free Close-up of a professional examining tax documents on a wooden desk indoors. Stock Photo">
+                <div class="gallery-overlay">
+                  <p>Insurtech</p>
                 </div>
               </div>
               <!-- Duplicated items for seamless loop -->
               <div class="gallery-item">
-                <img src="https://images.pexels.com/photos/3231359/pexels-photo-3231359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Children studying in classroom 2">
+                <img src="https://images.unsplash.com/photo-1622253692010-333f2da6031d?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Doctor in his blue scrubs">
                 <div class="gallery-overlay">
-                  <p>Education & Learning</p>
+                  <p>Healthcare</p>
                 </div>
               </div>
               <div class="gallery-item">
-                <img src="https://images.pexels.com/photos/2091760/pexels-photo-2091760.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Building 2">
+                <img src="https://images.unsplash.com/photo-1582719298818-904ce0e5cd87?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="A female pharmacist">
                 <div class="gallery-overlay">
-                  <p>Infrastructure & Development</p>
+                  <p>Pharma & Diagnostics</p>
                 </div>
               </div>
               <div class="gallery-item">
-                <img src="https://images.pexels.com/photos/31613321/pexels-photo-31613321/free-photo-of-professional-cosmetic-treatment-session.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Doctors operating on a patient 2">
+                <img src="https://images.unsplash.com/photo-1578496479531-32e296d5c6e1?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="a group of plastic cups sitting on top of a machine">
                 <div class="gallery-overlay">
-                  <p>Healthcare & Wellness</p>
+                  <p>Biotech</p>
                 </div>
               </div>
               <div class="gallery-item">
-                <img src="https://images.pexels.com/photos/8139596/pexels-photo-8139596.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Indian currency hanging on a clip 2">
+                <img src="https://plus.unsplash.com/premium_photo-1668383207188-f5474588d674?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="a man and a woman sitting at a table writing">
                 <div class="gallery-overlay">
-                  <p>Financial Services</p>
+                  <p>Development</p>
                 </div>
               </div>
               <div class="gallery-item">
-                <img src="https://images.pexels.com/photos/30665287/pexels-photo-30665287/free-photo-of-traditional-potter-crafting-clay-pots-in-india.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Indian woman in a saree making earthern pots 2">
+                <img src="https://plus.unsplash.com/premium_photo-1683535508501-03d9271c3b09?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="a woman holding a stack of books in a library">
                 <div class="gallery-overlay">
-                  <p>Artisan & Handicrafts</p>
+                  <p>Education</p>
+                </div>
+              </div>
+              <div class="gallery-item">
+                <img src="https://images.pexels.com/photos/6771665/pexels-photo-6771665.jpeg" alt="Free Close-up of a smartphone showing cryptocurrency trends with coins in the background. Stock Photo">
+                <div class="gallery-overlay">
+                  <p>Fintech</p>
+                </div>
+              </div>
+              <div class="gallery-item">
+                <img src="https://images.pexels.com/photos/6927546/pexels-photo-6927546.jpeg" alt="Free Close-up of a professional examining tax documents on a wooden desk indoors. Stock Photo">
+                <div class="gallery-overlay">
+                  <p>Insurtech</p>
                 </div>
               </div>
             </div>
@@ -166,25 +190,25 @@
           </div>
           <div id="projects-gallery">
             <div class="project">
-              <div class="project-img" style="background-image: url('https://images.pexels.com/photos/4511649/pexels-photo-4511649.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')"></div>
+              <div class="project-img" style="background-image: url('https://images.unsplash.com/photo-1664902273556-600a6e50beda?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')"></div>
               <div class="project-tag">
-                <p>Rural Development</p>
-                <p>Policy Implementation</p>
+                <p>Healthcare</p>
+                <p>Development</p>
               </div>
               <div class="project-details">
-                <h4>Project ROPAN</h4>
-                <p>Project ROPAN offers subsidized, disease-specific healthcare through tailored insurance, enabled by a payments bank. It also upskills Front-Line Health Workers (FLHWs) via a digital platform.</p>
+                <h4>Scaling Clinics in the GCC: A Capital Strategy Project</h4>
+                <p>We helped a regional healthcare group develop a fundraising strategy, investor materials, and a market-backed expansion plan—driving growth in IVF and integrated care across underserved areas in the UAE and GCC.</p>
               </div>
-              <button>Know More<i class="ri-arrow-right-line"></i></i></button>
+              <button>Know More<i class="ri-arrow-right-line"></i></button>
             </div>
             <div class="project">
-              <div class="project-img" style="background-image: url('https://www.stalwartcareers.com/wp-content/uploads/IIM-Nagpur-1.jpg')"></div>
+              <div class="project-img" style="background-image: url('https://images.unsplash.com/photo-1538108149393-fbbd81895907?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')"></div>
               <div class="project-tag">
-                <p>Education</p>
+                <p>Healthcare</p>
               </div>
               <div class="project-details">
-                <h4>IIM Nagpur & MSME</h4>
-                <p>IIM students tackle MSME issues in a 3-credit program, guided by professors and industry experts. Let me know if you need a version for a brochure, pitch deck, or website.</p>
+                <h4>Strategic Imperatives: Dynamic Pricing, Supply Chain Optimization, and Capital Fundraising</h4>
+                <p>We delivered a strategic solution to optimize hospital operations, implement dynamic pricing, streamline procurement, and prepare for capital raise—enhancing both financial resilience and investor appeal for future expansion.</p>
               </div>
               <button>Know More<i class="ri-arrow-right-line"></i></button>
             </div>
@@ -195,20 +219,20 @@
                 <p>Innovation</p>
               </div>
               <div class="project-details">
-                <h4>Digital Chikitsa</h4>
-                <p>A strong, accessible healthcare system is essential. Automated diagnostic technology can reduce errors by 97% and cut costs, making accurate and affordable care possible even at the periphery.</p>
+                <h4>Integrated NCD Screening & Referral Strategy for GCC Healthcare System</h4>
+                <p>ENIRA developed a targeted outreach model, referral network, and PMU to drive early NCD detection and integration into Oman’s healthcare system.</p>
               </div>
               <button>Know More<i class="ri-arrow-right-line"></i></button>
             </div>
             <div class="project">
-              <div class="project-img" style="background-image: url('https://images.pexels.com/photos/12188470/pexels-photo-12188470.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')"></div>
+              <div class="project-img" style="background-image: url('https://images.pexels.com/photos/1181406/pexels-photo-1181406.jpeg')"></div>
               <div class="project-tag">
-                <p>Rural Development</p>
-                <p>Policy Implementation</p>
+                <p>Healthcare</p>
+                <p>Biotech</p>
               </div>
               <div class="project-details">
-                <h4>Non-Fungible Tokens for GI Tagged Artist and Artisans of India</h4>
-                <p>Handicrafts are fading in India, with a 30% drop in artisans over three decades. Most earn just ₹2000 per family, facing exploitation, low demand, and limited market access.</p>
+                <h4>Strategic Market Entry for AI Digital Twin in Hospitals & Insurers</h4>
+                <p>ENIRA crafted a GTM strategy for AI digital twin tech targeting hospitals, insurers, and wellness programs to drive claim reduction, cost savings, and preventive care integration.</p>
               </div>
               <button>Know More<i class="ri-arrow-right-line"></i></button>
             </div>
@@ -224,12 +248,12 @@
               <p>We deliver world-class consulting services across strategy, new market entry, financial advisory, and technology. Our solutions are designed to help businesses navigate challenges, unlock growth opportunities, and achieve long-term success in a dynamic global market.</p>
             </div>
             <div id="services-list">
-              <h5 class="active" data-index="0">Strategy Consulting and Advisory Support</h5>
-              <h5 data-index="1">Market Entry and Regulatory Support</h5>
-              <h5 data-index="2">Technology Consulting</h5>
-              <h5 data-index="3">Product Development and Tech-Integration</h5>
-              <h5 data-index="4">Financial Consulting</h5>
-              <h5 data-index="5">Financial Consulting to The Funds</h5>
+              <h5 class="active" data-index="0">Strategic Planning & Advisory</h5>
+              <h5 data-index="1">Government & Public Sector Support</h5>
+              <h5 data-index="2">Program Evaluation & Systems Improvement</h5>
+              <h5 data-index="3">Digital Transformation & Tech Strategy</h5>
+              <h5 data-index="4">Market Entry & Compliance Navigation</h5>
+              <h5 data-index="5">Financial Consulting & Capital Strategy</h5>
             </div>
           </div>
           <div id="serive-card">
@@ -257,26 +281,26 @@
           </div>
           <div id="blogs-container">
             <div class="blog">
-              <div class="blog-img"></div>
+              <div class="blog-img" style="background-image: url('https://images.pexels.com/photos/8413294/pexels-photo-8413294.jpeg')"></div>
               <div class="blog-tags">
-                <p>Policy Making</p>
-                <p>Rural Development</p>
+                <p>Healthcare</p>
+                <p>Digital Transformation</p>
               </div>
               <div class="blog-details">
-                <h5>Public Private Partnerships</h5>
-                <p>Public-private partnerships (PPP) are agreements between the government and private sector entities to deliver infrastructure projects. These partnerships leverage private sector expertise, finance, and innovation to improve infrastructure development and delivery.</p>
+                <h5>Transforming Healthcare: India's Journey Towards a Functional Health Insurance Claims Exchange</h5>
+                <p>India is revolutionizing healthcare with a unified digital claims exchange, aiming for faster, transparent, and efficient insurance settlements.</p>
               </div>
               <button>Read More<i class="ri-arrow-right-up-line"></i></button>
             </div>
             <div class="blog">
-              <div class="blog-img"></div>
+              <div class="blog-img" style="background-image: url('https://images.pexels.com/photos/259968/pexels-photo-259968.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')"></div>
               <div class="blog-tags">
-                <p>Policy Making</p>
-                <p>Rural Development</p>
+                <p>Infrastructure</p>
+                <p>Public Policy</p>
               </div>
               <div class="blog-details">
-                <h5>Public Private Partnerships</h5>
-                <p>Public-private partnerships (PPP) are agreements between the government and private sector entities to deliver infrastructure projects. These partnerships leverage private sector expertise, finance, and innovation to improve infrastructure development and delivery.</p>
+                <h5>Leveraging Digital Public Infrastructure for Transforming Justice Delivery in India</h5>
+                <p>India is transforming its justice delivery system by leveraging Digital Public Infrastructure (DPI). Through integrated platforms, digital court services, and data-driven systems, the goal is to make justice more accessible, transparent, and efficient—enabling faster, fairer, and more inclusive legal outcomes for all citizens./p>
               </div>
               <button>Read More<i class="ri-arrow-right-up-line"></i></button>
             </div>
@@ -362,19 +386,34 @@ document.addEventListener("DOMContentLoaded", function () {
   // Service card content
   const serviceData = [
     {
-      title: "Strategy Consulting",
-      description: "We focus on and assist with a company's long-term vision. Our goal is to see the bigger picture, and to identify ways in which we can help our client to increase their overall profitability and competitiveness. We form strategies to reach long-term goals and oversee the implementation of these, ensuring they are cost effective and bring in results.",
+      title: "Strategic Planning & Advisory",
+      description: "We help organizations develop comprehensive strategic plans that align with their vision and mission. Our advisory services provide the insights and guidance needed to navigate complex business landscapes and achieve sustainable growth.",
       image: "https://images.pexels.com/photos/1181355/pexels-photo-1181355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
-      title: "Market Entry & Regulatory Support",
-      description: "We help businesses navigate complex regulatory landscapes and develop effective market entry strategies. Our experts provide comprehensive analysis of market conditions, competitive dynamics, and regulatory requirements to ensure a smooth and successful entry into new markets.",
+      title: "Government & Public Sector Support",
+      description: "We provide specialized consulting services to government and public sector organizations, helping them improve efficiency, implement policies effectively, and deliver better public services through strategic planning and operational improvements.",
       image: "https://images.pexels.com/photos/3184338/pexels-photo-3184338.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
-      title: "Technology Consulting",
-      description: "Our technology consulting services help organizations leverage the latest technologies to drive innovation and achieve business objectives. We provide expert guidance on technology strategy, digital transformation, systems integration, and IT infrastructure optimization.",
+      title: "Program Evaluation & Systems Improvement",
+      description: "Our experts evaluate program effectiveness and identify opportunities for systems improvement. We help organizations enhance their operations, optimize processes, and achieve better outcomes through data-driven analysis and strategic recommendations.",
       image: "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      title: "Digital Transformation & Tech Strategy",
+      description: "We guide organizations through digital transformation journeys, helping them leverage technology to drive innovation and competitive advantage. Our tech strategy services ensure alignment between technology initiatives and business objectives.",
+      image: "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      title: "Market Entry & Compliance Navigation",
+      description: "Our experts help businesses successfully enter new markets while navigating complex regulatory requirements. We provide comprehensive market analysis, compliance strategies, and implementation support to ensure smooth market entry and operations.",
+      image: "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      title: "Financial Consulting & Capital Strategy",
+      description: "We provide expert financial consulting services, helping organizations optimize their capital structure, secure funding, and make informed financial decisions that drive growth and long-term sustainability.",
+      image: "https://images.pexels.com/photos/259027/pexels-photo-259027.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       title: "Product Development",
